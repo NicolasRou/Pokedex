@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    margin-top: 2vh;
+}
+.logo{
+    width: 3vw;
+    display: inline-block;
+    padding-top: 0.7vh;
+}
+.title {
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 1vw;
+    color: black
+    
+    ;
+}
+  
